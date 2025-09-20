@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mí
 
-- 💻 Desarrollador Fullstack, amante del ecosistema JS (React, Node.js)  
+- 💻 Desarrollador Fullstack
 - 🎓 Próximo a recibirme de Tecnico Universitario en Programacion | UTN-FRT  
 
 
